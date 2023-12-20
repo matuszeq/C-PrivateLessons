@@ -1,0 +1,15 @@
+C:\Users\Bart\Proj1\C-PrivateLessons\helloworldapp\bin\Debug\net8.0\HelloWorldApp.exe
+C:\Users\Bart\Proj1\C-PrivateLessons\helloworldapp\bin\Debug\net8.0\HelloWorldApp.deps.json
+C:\Users\Bart\Proj1\C-PrivateLessons\helloworldapp\bin\Debug\net8.0\HelloWorldApp.runtimeconfig.json
+C:\Users\Bart\Proj1\C-PrivateLessons\helloworldapp\bin\Debug\net8.0\HelloWorldApp.dll
+C:\Users\Bart\Proj1\C-PrivateLessons\helloworldapp\bin\Debug\net8.0\HelloWorldApp.pdb
+C:\Users\Bart\Proj1\C-PrivateLessons\helloworldapp\obj\Debug\net8.0\HelloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\Proj1\C-PrivateLessons\helloworldapp\obj\Debug\net8.0\HelloWorldApp.AssemblyInfoInputs.cache
+C:\Users\Bart\Proj1\C-PrivateLessons\helloworldapp\obj\Debug\net8.0\HelloWorldApp.AssemblyInfo.cs
+C:\Users\Bart\Proj1\C-PrivateLessons\helloworldapp\obj\Debug\net8.0\HelloWorldApp.csproj.CoreCompileInputs.cache
+C:\Users\Bart\Proj1\C-PrivateLessons\helloworldapp\obj\Debug\net8.0\HelloWorldApp.sourcelink.json
+C:\Users\Bart\Proj1\C-PrivateLessons\helloworldapp\obj\Debug\net8.0\HelloWorldApp.dll
+C:\Users\Bart\Proj1\C-PrivateLessons\helloworldapp\obj\Debug\net8.0\refint\HelloWorldApp.dll
+C:\Users\Bart\Proj1\C-PrivateLessons\helloworldapp\obj\Debug\net8.0\HelloWorldApp.pdb
+C:\Users\Bart\Proj1\C-PrivateLessons\helloworldapp\obj\Debug\net8.0\HelloWorldApp.genruntimeconfig.cache
+C:\Users\Bart\Proj1\C-PrivateLessons\helloworldapp\obj\Debug\net8.0\ref\HelloWorldApp.dll
