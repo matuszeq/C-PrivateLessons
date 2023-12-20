@@ -1,0 +1,22 @@
+Napisz program który:
+
+Zapyta użytkownika o:
+1. Imię
+2. Nazwisko
+3. Wiek
+4. Kraj Pochodzenia
+
+Wyjście konsolowe programu ma przypominac poniższy format:
+
+Hej (imie) (nazwisko)!!
+Wiem ze pochodzisz z (kraj pochodzenia) I wiem ze masz (wiek) lat
+
+Każda linia w tym wierszu odzwierciedla linie w konsoli. Program ma się zapytac uzytkownika o wiek, nazwisko, iimę i kraj pochodzenia i zapytanie ma wyglądać następująco.
+
+Hej, jak masz na imie: (użytkownik podaje imie)
+Jak masz na nazwisko: (uzytkownik podaje nazwisko)
+
+Gdy zadanie zostanie ukończone dodaj wszystkie pliki do puli korzystając z 
+git add . albo git add (nazwa pliku) jeżeli nazwa pliku ma spacje to: git add 'nazwa pliku'
+następnie korzystając z git checkout przejdź na rozgałęzienie CSharp_testing
+i następnie korzystając z git commit -m 'wiadomosc' i następnie prześlij go nas serwer korzystając z git push.
