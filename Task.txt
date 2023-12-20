@@ -1,3 +1,8 @@
+Utwórz nowy C# peojekt korzystając z komendy dotnet new console -o NAZWA PROJEKTU BEZ SPACJI,
+nazwa projektu ma miec nazwe: zadaniezapytania
+
+program możesz uruchomic za pomoca DOTNET RUN
+
 Napisz program który:
 
 Zapyta użytkownika o:
